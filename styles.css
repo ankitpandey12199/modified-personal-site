@@ -1,0 +1,85 @@
+body {
+
+    margin: 0;
+    text-align: center;
+    font-family:Merriweather, Arial, sans-serif;
+
+}
+
+h1:hover
+{ 
+    color: chartreuse;
+    zoom:120%
+ 
+}
+
+h1
+{
+    font-family: cursive,sans-serif;
+    font-size: 3rem;
+    margin: 30px auto 0 auto;
+    color: blue;
+    line-height: 2;
+}
+
+h3
+{
+    font-family: cursive;
+    color: white;
+}
+
+.top-container {
+
+    position: relative;
+    padding-top: 100px;
+    background-color: rgb(48, 47, 46);
+  margin-bottom: -20px;
+
+}
+.middle-container {
+    background-color: rgb(247, 10, 10);
+margin-bottom: -35px;
+}
+
+.bottom-container {
+    background-color: rgb(2, 35, 2);
+}
+
+.pro {
+    text-decoration: underline rgb(246, 243, 239);
+}
+
+.top-cloud {
+position: absolute;
+top:50px;
+right:300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+h2
+{
+    font-size: 2rem;
+    color:blanchedalmond
+}
+.skills
+{
+    width: 50%;
+    margin:auto;
+}
+p:hover
+{
+    color: white ;
+    zoom:120%;
+}
+p
+{
+    color:wheat;
+}
+.programmer:hover
+{
+   text-decoration: underline chocolate;
+    zoom:80%;
+}
