@@ -17,7 +17,7 @@ h1
 {
     font-family: cursive,sans-serif;
     font-size: 3rem;
-    margin: 30px auto 0 auto;
+    margin: 2rem auto 0 auto;
     color: blue;
     line-height: 2;
 }
@@ -31,14 +31,14 @@ h3
 .top-container {
 
     position: relative;
-    padding-top: 100px;
+    padding-top: 5rem;
     background-color: rgb(48, 47, 46);
-  margin-bottom: -20px;
+  margin-bottom: -1rem;
 
 }
 .middle-container {
     background-color: rgb(247, 10, 10);
-margin-bottom: -35px;
+margin-bottom: -2rem;
 }
 
 .bottom-container {
@@ -51,13 +51,13 @@ margin-bottom: -35px;
 
 .top-cloud {
 position: absolute;
-top:50px;
-right:300px;
+top:2rem;
+right:12rem ;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 300px;
+    left: 12rem;
 }
 h2
 {
@@ -80,6 +80,6 @@ p
 }
 .programmer:hover
 {
-   text-decoration: underline chocolate;
+   text-decoration: underline black;
     zoom:80%;
 }
